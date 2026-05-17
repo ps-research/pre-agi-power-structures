@@ -1,0 +1,22 @@
+# Fetched dataset (populated by data/fetch.sh)
+data/sweep_results/
+
+# Generated figures
+figures/*
+
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.mem
+*.jl.*.cov
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.ipynb_checkpoints/
+
+# Env
+.env
+*.log
