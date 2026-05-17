@@ -88,3 +88,7 @@ declare a dependency on the published package version.
   MIT (see `LICENSE`).
 - **Figures and data**: CC-BY-4.0, inherited from the Zenodo dataset license.
   Cite the dataset DOI when reusing.
+
+---
+
+Built with [Claude Code](https://claude.ai/code) using Claude Opus 4.7 (1M context).
