@@ -91,4 +91,4 @@ declare a dependency on the published package version.
 
 ---
 
-Built with [Claude Code](https://claude.ai/code) using Claude Opus 4.7 (Max effort, 1M context).
+Built with [Claude Code](https://claude.ai/code) v2.1.143 using Claude Opus 4.7 (Max effort, 1M context).
